@@ -410,7 +410,7 @@ header img {
   position: relative;
   scroll-snap-align: center;
   width: 70%;
-  min-width: 230px;
+  min-width: 190px;
   max-width: 300px;
   height: 250px;
   margin: 50px 5px 0;
